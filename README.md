@@ -19,5 +19,7 @@ The data fields will be made available to input once the data is saved in the "C
 After the user has completed entering data for the courses, press Calculate to display your cumulative GPA.
 # Contributions
 Tyler Nguyen
+
 Gabby Mapa
+
 Emily Nguyen
